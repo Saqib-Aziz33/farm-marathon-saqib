@@ -6,7 +6,7 @@ function StakePool() {
   return (
     <Box className="stake-pool" my={12}>
       <Container maxW={1200}>
-        <Heading as="h2" className="text-stroke">
+        <Heading as="h2" className="text-stroke" size="2xl" fontWeight="900">
           Choose Your Stake Pool
         </Heading>
 
