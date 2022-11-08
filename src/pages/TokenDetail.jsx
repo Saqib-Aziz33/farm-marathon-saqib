@@ -33,7 +33,7 @@ function TokenDetail() {
         <Heading className="text-stroke" fontWeight="900" size="2xl">
           {item.deposit}
         </Heading>
-        <Heading color="gray.500" size="md">
+        <Heading color="gray.400" size="md">
           Deposit {item.deposit} and Earn {item.earn}
         </Heading>
       </VStack>

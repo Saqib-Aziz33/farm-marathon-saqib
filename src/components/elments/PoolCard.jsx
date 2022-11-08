@@ -45,7 +45,7 @@ export default PoolCard;
 function SpaceText({ text, value }) {
   return (
     <HStack justify="space-between" w="full">
-      <Text fontWeight={800} color="gray.00">
+      <Text fontWeight={800} color="gray.400">
         {text}
       </Text>
       <Text fontWeight={800}>{value}</Text>
