@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 // others
 import "./app.scss";
+import TokenDetail from "./pages/TokenDetail";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Base>
             <Routes>
               <Route index path="/" element={<Home />} />
+              <Route path="/:id" element={<TokenDetail />} />
               <Route path="/*" element={<NotFound />} />
             </Routes>
           </Base>
