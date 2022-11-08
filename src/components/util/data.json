@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "apy": "600",
+    "deposit": "GMT",
+    "earn": "MRACE",
+    "img": "/assets/c1.png"
+  },
+  {
+    "id": 2,
+    "apy": "3500",
+    "deposit": "BUSD",
+    "earn": "MRACE",
+    "img": "/assets/c2.png"
+  },
+  {
+    "id": 3,
+    "apy": "4000",
+    "deposit": "USDT",
+    "earn": "MRACE",
+    "img": "/assets/c3.png"
+  },
+  {
+    "id": 4,
+    "apy": "4000",
+    "deposit": "USDC",
+    "earn": "MRACE",
+    "img": "/assets/c4.png"
+  },
+  {
+    "id": 5,
+    "apy": "3400",
+    "deposit": "WBNB",
+    "earn": "MRACE",
+    "img": "/assets/c5.png"
+  },
+  {
+    "id": 6,
+    "apy": "4500",
+    "deposit": "CAKE",
+    "earn": "MRACE",
+    "img": "/assets/c6.png"
+  },
+  {
+    "id": 7,
+    "apy": "7800",
+    "deposit": "ETH",
+    "earn": "MRACE",
+    "img": "/assets/c7.png"
+  },
+  {
+    "id": 8,
+    "apy": "3400",
+    "deposit": "1INCH",
+    "earn": "MRACE",
+    "img": "/assets/c8.png"
+  }
+]

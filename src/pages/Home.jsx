@@ -1,4 +1,10 @@
+import StakePool from "../components/elments/StakePool";
+
 function Home() {
-  return <></>;
+  return (
+    <>
+      <StakePool />
+    </>
+  );
 }
 export default Home;

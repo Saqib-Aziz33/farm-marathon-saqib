@@ -1,11 +1,4 @@
-import {
-  Container,
-  Box,
-  Button,
-  Image,
-  VStack,
-  Heading,
-} from "@chakra-ui/react";
+import { Container, Box, Button, VStack, Heading } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 import { MdOutlineArrowBack } from "react-icons/md";
 
@@ -14,7 +7,6 @@ function NotFound() {
     <Box className="notfound-page">
       <Container>
         <VStack my={8} gap={4}>
-          <Image src="assets/404.svg" maxW={400} />
           <Heading>Page Not Found</Heading>
           <Button display="flex" alignItems="center" gap={2}>
             <MdOutlineArrowBack />
